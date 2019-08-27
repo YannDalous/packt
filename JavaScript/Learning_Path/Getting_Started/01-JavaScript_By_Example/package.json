@@ -1,0 +1,11 @@
+{
+  "name": "1-javascriptbyexample",
+  "version": "1.0.0",
+  "description": "JavaScript by Example by Dani Akash S, August 2017",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
